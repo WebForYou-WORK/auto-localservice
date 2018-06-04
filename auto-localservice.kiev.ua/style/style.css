@@ -186,11 +186,11 @@ text-align: center;
 .sl a{
     text-decoration: none;
     padding: 0 10%;
-    
+    font-size: 18px;
 }
 .sl li{
     list-style-type: none;
-}
+        }
 
     
       /* service */
