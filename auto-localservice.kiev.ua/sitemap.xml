@@ -9,7 +9,38 @@
 
 <url>
   <loc>http://www.auto-localservice.kiev.ua/</loc>
-  <lastmod>2018-06-03T09:14:29+00:00</lastmod>
+  <lastmod>2018-06-04T14:47:41+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>http://www.auto-localservice.kiev.ua/index.html</loc>
+  <lastmod>2018-06-04T14:47:41+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.auto-localservice.kiev.ua/remont.html</loc>
+  <lastmod>2018-06-04T14:47:41+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.auto-localservice.kiev.ua/rihtovka.html</loc>
+  <lastmod>2018-06-04T14:47:41+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.auto-localservice.kiev.ua/pokraska.html</loc>
+  <lastmod>2018-06-04T14:47:41+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.auto-localservice.kiev.ua/poliroy.html</loc>
+  <lastmod>2018-06-04T14:47:41+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.auto-localservice.kiev.ua/svarka.html</loc>
+  <lastmod>2018-06-04T14:47:42+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 
 
