@@ -1,0 +1,4 @@
+User-agent: *
+Crawl-delay: 1
+Host:https://hostiq.ua
+Sitemap: http://www.auto-localservice.kiev.ua/sitemap.xml

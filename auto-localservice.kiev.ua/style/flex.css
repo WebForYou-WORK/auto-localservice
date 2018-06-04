@@ -1,0 +1,86 @@
+.header{
+    display: flex;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox; 
+    justify-content: space-around;
+    align-items: center;
+    flex-wrap: wrap;
+    
+}
+.icon{
+    flex: 1 100px;
+    margin: auto;
+  }
+.work, .logo{
+    flex: 2 200px;
+}
+.name{
+    flex: 5 600px;
+    display: flex;
+    flex-direction: column;
+}
+.nav_list{
+    display: flex;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox; 
+    justify-content: space-around;
+    align-self: auto;
+    }
+.nav_item{
+    flex: 1;
+    }
+
+.out{
+    display: flex;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox; 
+    justify-content: space-around;
+    align-items: flex-start; 
+    margin: 5px;
+    flex-wrap: wrap;
+    }
+.slider{
+    display: flex;
+    flex: 4 400px;
+    justify-content: center;
+    align-items: center;
+    margin: 5px;
+    padding: 10px;
+    text-decoration: none;
+    }
+.osenka, .taksi {
+    flex: 2 200px;
+    margin: 5px;
+    justify-content: center;
+    padding: 10px;
+}
+.img_icon_osen{
+      margin:  10px auto;
+}
+/* service */
+#service, #out{
+    display: flex;
+    flex-direction: column;
+}
+.service {
+    display: flex;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox; 
+    justify-content: center; /*центрирование по горизонтали*/
+    align-items: center; /*центрирование по вертикали*/
+    padding: 0;
+  }
+  .box {
+    display: flex;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox; 
+    justify-content: center;
+    align-items: center;
+    flex-basis: 20%;
+    }
+
