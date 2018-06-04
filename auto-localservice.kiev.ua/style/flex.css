@@ -44,15 +44,30 @@
     }
 .slider{
     display: flex;
-    flex: 4 400px;
+    flex: 2 700px;
     justify-content: center;
     align-items: center;
     margin: 5px;
     padding: 10px;
     text-decoration: none;
     }
-.osenka, .taksi {
-    flex: 2 200px;
+.my{
+    display: flex;
+    flex: 4 800px;
+    justify-content: center;
+    margin: 5px;
+    padding: 10px;
+    text-decoration: none;
+    flex-wrap: wrap;
+}
+.osenka {
+    flex: 3 450px;
+    margin: 5px;
+    justify-content: center;
+    padding: 10px;
+}
+.taksi {
+    flex: 1 300px;
     margin: 5px;
     justify-content: center;
     padding: 10px;
@@ -63,6 +78,9 @@
 /* service */
 #service, #out{
     display: flex;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox; 
     flex-direction: column;
 }
 .service {
