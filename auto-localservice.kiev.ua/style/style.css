@@ -16,6 +16,10 @@ body{
     background-position: center;
     
 }
+p{
+    font-size: 16px;
+    text-align: justify;
+}
 
 .img_logo{
     width: 100%;
@@ -167,9 +171,7 @@ text-align: center;
 .red_big{
     font-size: bold;
     color: red;}
-p {
-    text-align: justify;
-}
+ 
 }
 h4, #service h2 {
     color: white;
