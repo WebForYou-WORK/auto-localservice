@@ -32,7 +32,7 @@
 	  .box:hover {
 		flex-grow: 20%;
 	  }
-	  
+
 	.menu{
 		display: flex;
 		justify-content: flex-end;
@@ -75,9 +75,6 @@
 	.work{
 		font-size: 85%;
 	}
-	.icon{
-		  pading: 0 10px;
-	  }
 	}
 	
 	
