@@ -13,7 +13,7 @@
     margin: auto;
   }
 .work, .logo{
-    flex: 2 200px;
+    flex: 2 250px;
 }
 .name{
     flex: 5 600px;
